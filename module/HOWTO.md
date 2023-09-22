@@ -18,7 +18,7 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Start by making a backup (both DB and store files)!!!
 * Extensions > Extensions > Modules > #ocmod.space: seo-path > [Uninstall]
 * Extensions > Installer > Install History > `seo-path.ocmod.zip` > [Uninstall]
-* Extensions > Installer > Install History > `fix-dirs.ocmod.zip` > [Uninstall]
+* Extensions > Installer > Install History > `ocfix--dir-access.ocmod.zip` > [Uninstall]
 * Extensions > Installer > Install History > `document-addtag.ocmod.zip` > [Uninstall]
 * Extensions > Modifications > [Refresh]
 * Dashboard > [Developer Settings] > [Refresh]
