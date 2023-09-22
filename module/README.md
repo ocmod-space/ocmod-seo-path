@@ -1,7 +1,7 @@
 # SEO Path
 
 ## Description
-**SEO Path** is an OpenCart extension that allows to control store URLs and breadcrumb trails, implement static pagination, uses smart redirection, improve important aspects of multilingual stores and other things to make store more SEO-friendly.  
+**SEO Path** is a simple but powerful extension that allows to control store URLs and breadcrumb trails, implement static pagination, uses smart redirection, improve important aspects of multilingual stores and other things to make store more SEO-friendly.  
 Compatible with OpenCart 3.x versions.
 
 ## Features
@@ -10,7 +10,7 @@ Compatible with OpenCart 3.x versions.
 * Static pagination, i.e. `example.com/category/2`, with the page number in the header.
 * Multilingual store support.
 * Language prefixes, i.e, `example.com/en`, `example.com/en-gb`.
-* JSON-LD markup for breadcrumbs
+* JSON-LD markup for breadcrumbs.
 * Compatible with the **Journal** theme.
 * Does not modify OC core files (OCMOD).
 
