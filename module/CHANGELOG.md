@@ -1,5 +1,9 @@
 # Change log
 
+## [4.1.1] - 2023.09.28:
+### Internal
+- Fix compatibility with the **SEO Redirect** module.
+
 ## [4.1.0] - 2023.09.01:
 ### Changed
 - Determining correct URL language for further redirection if necessary.
