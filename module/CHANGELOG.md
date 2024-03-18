@@ -1,5 +1,9 @@
 # Change log
 
+## [4.1.2] - 2024.03.18:
+### Fixed
+- Processing an erroneous request.
+
 ## [4.1.1] - 2023.09.28:
 ### Internal
 - Fix compatibility with the **SEO Redirect** module.
