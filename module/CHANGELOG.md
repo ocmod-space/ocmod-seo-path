@@ -4,6 +4,7 @@
 ### Added
 - Ability to display language tag in URL even for one language.
 ### Fixed
+- Removed brand tags from direct product SEO URLs.
 - Error when multiple languages ​​are installed but only one is enabled.
 - Static pagination for only numerical SEO URLs.
 ### Internal
