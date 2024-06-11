@@ -1,5 +1,15 @@
 # Change log
 
+## [4.2.0] - 2024.06.10:
+### Added
+- Ability to display language tag in URL even for one language.
+### Fixed
+- Error when multiple languages ​​are installed but only one is enabled.
+- Static pagination for only numerical SEO URLs.
+### Internal
+- Admin view slightly changed.
+- Minor code improvement.
+
 ## [4.1.2] - 2024.03.18:
 ### Fixed
 - Processing an erroneous request.
