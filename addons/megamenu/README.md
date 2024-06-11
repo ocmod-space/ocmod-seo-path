@@ -1,4 +1,4 @@
-# SEO Path|Megamenu
+# ocmod.space/seo_path/megamenu
 
 ## Description
 An addon to connect the **SEO Path** module with the **Megamenu**. 
