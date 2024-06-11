@@ -28,5 +28,5 @@ Compatible with OpenCart 3.x versions.
 ## Related extensions
 * [**SEO Redirect**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=45459) - is an extension to redirect old or broken requests to a new URLs using HTTP 301 response status code. So customer browser will redirect to updated URLs and search engines will notified, that the requested resource have finally moved to a new URL, and they update their links to the resource.
 * [**SEO Common Urls**](https://github.com/ocmod-space/ocmod-seo-common-urls).
-* [**Dir Access**](https://github.com/ocmod-space/ocmod-ocfix/tree/main/addons/dir-access).
+* [**Dir Access**](https://github.com/ocmod-space/ocmod-aux/tree/main/addons/dir-access).
 * [**Document addTag**](https://github.com/ocmod-space/ocmod-document-addtag).
