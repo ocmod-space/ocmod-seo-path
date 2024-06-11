@@ -6,3 +6,5 @@ zip
 *.code-workspace
 *.fclignore
 *.pwd
+module/HOWTO.md
+module/README.md
