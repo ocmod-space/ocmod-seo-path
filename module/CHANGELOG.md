@@ -1,5 +1,9 @@
 # Change log
 
+## [4.2.1] - 2024.06.11:
+### Fixed
+- Ignore the module status if SEO URLs disable in the store settings.
+
 ## [4.2.0] - 2024.06.10:
 ### Added
 - Ability to display language tag in URL even for one language.
