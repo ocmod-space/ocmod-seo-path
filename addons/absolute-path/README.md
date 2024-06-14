@@ -1,4 +1,4 @@
-# ocmod.space/seo_path/absolute_path
+# Seo Path|Absolute Path
 
 ## Description
 --
