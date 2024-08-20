@@ -1,5 +1,9 @@
 # Change log
 
+## [4.2.2] - 2024.08.19:
+### Fixed
+- Loop redirection on common routes without SEO URL.
+
 ## [4.2.1] - 2024.06.11:
 ### Fixed
 - Ignore the module status if SEO URLs disable in the store settings.
