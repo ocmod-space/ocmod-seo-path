@@ -22,7 +22,7 @@ return $config
 		'align_multiline_comment'                       => true,
 		'array_indentation'                             => true,
 		'array_syntax'                                  => ['syntax' => 'short'],
-		'assign_null_coalescing_to_coalesce_equal'      => true,
+		'assign_null_coalescing_to_coalesce_equal'      => false,
 		'attribute_empty_parentheses'                   => true,
 		'backtick_to_shell_exec'                        => true,
 		'binary_operator_spaces'                        => [
