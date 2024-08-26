@@ -1,5 +1,13 @@
 # Change log
 
+## [4.2.4] - 2024.08.25:
+### Fixed
+- Search requests and redirects.
+
+## [4.2.3] - 2024.08.23:
+### Fixed
+- Clear module cache when save settings.
+
 ## [4.2.2] - 2024.08.19:
 ### Fixed
 - Loop redirection on common routes without SEO URL.
