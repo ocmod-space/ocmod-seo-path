@@ -1,5 +1,9 @@
 # Change log
 
+## [4.2.5] - 2024.09.02:
+### Fixed
+- Maintenance mode error.
+
 ## [4.2.4] - 2024.08.25:
 ### Fixed
 - Search requests and redirects.
