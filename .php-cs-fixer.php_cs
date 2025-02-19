@@ -8,11 +8,11 @@
 
 $config = new PhpCsFixer\Config();
 
-return $config
-	->setIndent("\t")
-	->setLineEnding("\n")
-	->setRiskyAllowed(true)
-	->setRules([
+return $config->
+	setIndent("\t")->
+	setLineEnding("\n")->
+	setRiskyAllowed(true)->
+	setRules([
 		'@PSR2'                                         => true,
 		'@Symfony'                                      => false,
 		'@DoctrineAnnotation'                           => true,
@@ -160,7 +160,10 @@ return $config
 		'normalize_index_brace'                         => true,
 		'not_operator_with_space'                       => false,
 		'object_operator_without_whitespace'            => true,
-		'operator_linebreak'                            => ['only_booleans' => true],
+		'operator_linebreak'                            => [
+			'only_booleans' => true,
+			'position'      => 'end',
+		],
 		'ordered_imports'                               => true,
 		'php_unit_fqcn_annotation'                      => true,
 		'php_unit_internal_class'                       => true,
@@ -221,9 +224,8 @@ return $config
 		'visibility_required'                           => true,
 		'whitespace_after_comma_in_array'               => true,
 		// */
-	])
-	->setFinder(
-		PhpCsFixer\Finder::create()
-			->in(__DIR__)
-	)
-;
+	])->
+	setFinder(
+		PhpCsFixer\Finder::create()->
+			in(__DIR__)
+	);

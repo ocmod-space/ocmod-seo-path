@@ -1,4 +1,4 @@
-# How-To
+# How-to
 
 ## Warning
 REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS OF DATA, SO START ALL THE CHANGES BY BACKING UP THE DB AND FILES!
@@ -7,21 +7,22 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Extensions → Installer → [Upload]: [aux__dir_access.ocmod.zip](https://github.com/ocmod-space/ocmod-aux/raw/main/addons/dir-access/zip/aux__dir_access.ocmod.zip)
 * Extensions → Installer → [Upload]: [document_addtag.ocmod.zip](https://github.com/ocmod-space/ocmod-document-addtag/raw/main/module/zip/document_addtag.ocmod.zip)
 * Extensions → Installer → [Upload]: `seo_path.ocmod.zip`
+* {4x} Extensions → Installer → /ocmod.space/seo_path → [Install]
 * Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
+* {3x} Dashboard → [Developer Settings] → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Theme → [Refresh]
 * Extensions → Extensions → Modules → /ocmod.space/seo_path → [Install]
 
 ## Uninstall
 * Extensions → Extensions → Modules → /ocmod.space/seo_path → [Uninstall]
-* Extensions → Installer → Install History → `seo_path.ocmod.zip` → [Uninstall]
-* Extensions → Installer → Install History → `aux__dir_access.ocmod.zip` → [Uninstall]
-* Extensions → Installer → Install History → `document_addtag.ocmod.zip` → [Uninstall]
+* {3x} Extensions → Installer → Install History → `seo_path.ocmod.zip` → [Uninstall]
+* {4x} Extensions → Installer → /ocmod.space/seo_path → [Uninstall]
+* {4x} Extensions → Installer → /ocmod.space/seo_path → [Delete]
 * Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
+* {3x} Dashboard → [Developer Settings] → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Theme → [Refresh]
 
-## Update
-* Extensions → Installer → Install History → `seo_path.ocmod.zip` → [Uninstall]
-* Extensions → Installer → [Upload]: `seo_path.ocmod.zip`
-* Extensions → Modifications → [Refresh]
-* Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/seo_path → [Install] → [Edit] → [Save]
+## Configure
+* Extensions → Extensions → Modules → /ocmod.space/seo_path → [Edit]

@@ -1,10 +1,6 @@
-_inc
-doc
-pic
-src
-zip
-*.code-workspace
-*.fclignore
-*.pwd
-module/HOWTO.md
-module/README.md
+/ocmscp/
+/*.code-workspace
+/.basex64.key
+/.include.fls
+/.module.cfg
+/ocmscp.py

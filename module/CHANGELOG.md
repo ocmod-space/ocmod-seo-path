@@ -1,5 +1,17 @@
 # Change log
 
+## [4.4.0] - 2025.02.19:
+### Fixed
+- `catalog/controller/common/language/before`.
+### Removed
+- Redundant `307`,`308` HTTP Status Codes.
+### Internal
+- Minor code improvements.
+
+## [4.3.0] - 2024.12.09:
+### Fixed
+- Multidomain multistore support.
+
 ## [4.2.5] - 2024.09.02:
 ### Fixed
 - Maintenance mode error.

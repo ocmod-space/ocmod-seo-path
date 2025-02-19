@@ -1,10 +1,8 @@
-# SEO Path
+# Seo Path
 
-## Description
-**SEO Path** is an OpenCart extension to control store URLs and breadcrumb trails, static pagination, smart redirection, improve important aspects of multilingual stores and other things to make store more SEO-friendly.  
-Compatible with OpenCart 3x versions.
-[Read more...](./module/README.md)
+The **SEO Path** is an OpenCart module that designed to enhance key SEO aspects, manage URLs (including multilingual support), enable static pagination, provide intelligent redirection, and more.
 
-## Links
-* **SEO Path** on [**OpenCart Marketplace**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38192).
-* [**SEO Path**](https://www.ocmod.space/seo-path) web page.
+Compatible with OpenCart 3.x versions PHP ≥ 7.x.
+
+[Read more...](./module)
+
