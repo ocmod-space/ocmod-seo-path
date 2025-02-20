@@ -8,9 +8,9 @@ Compatible with OpenCart 3.x versions (PHP ≥ 7.x).
 ## Features
 * URL and breadcrumb path management.
 * Intelligent URL redirection.
-* Static pagination, e.g., `example.com/category/2`, with the page number in the header.
+* URL language tags, e.g., `example.com/en`, `example.com/en-gb`, etc.
 * Full support for multilingual stores.
-* Language prefixes, e.g., `example.com/en`, `example.com/en-gb`.
+* Static pagination, e.g., `example.com/category/2`, with the page number in the header.
 * `JSON-LD` structured data for breadcrumbs.
 * Compatible with the [b]Journal[/b] theme.
 * No core file modifications (OCMOD-based).
