@@ -5,6 +5,8 @@ The **SEO Path** is an OpenCart module that designed to enhance key SEO aspects,
 
 Compatible with OpenCart 3.x versions (PHP ≥ 7.x).
 
+Note: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
+
 ## Features
 * URL and breadcrumb path management.
 * Intelligent URL redirection.
@@ -12,8 +14,8 @@ Compatible with OpenCart 3.x versions (PHP ≥ 7.x).
 * Full support for multilingual stores.
 * Static pagination, e.g., `example.com/category/2`, with the page number in the header.
 * `JSON-LD` structured data for breadcrumbs.
-* Compatible with the [b]Journal[/b] theme.
-* No core file modifications (OCMOD-based).
+* No core file modifications.
+* Seamless compatibility with the **Journal** theme.
 
 ## Restrictions
 This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
