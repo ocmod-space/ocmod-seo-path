@@ -1,11 +1,11 @@
 # Seo Path
 
 ## Description
-The **SEO Path** is an OpenCart module that designed to enhance key SEO aspects, manage URLs (including multilingual support), enable static pagination, provide intelligent redirection, and more.
+**SEO Path** is an OpenCart module that designed to enhance key SEO aspects, manage URLs (including multilingual support), enable static pagination, provide intelligent redirection, and more.
 
-Compatible with OpenCart 3.x versions (PHP ≥ 7.x).
+Compatible with OpenCart 3.x versions (PHP 7.x and above).
 
-Note: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
+**Note**: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
 
 ## Features
 * URL and breadcrumb path management.
@@ -14,7 +14,7 @@ Note: The source code is encrypted. For purchase and licensing information, see 
 * Full support for multilingual stores.
 * Static pagination, e.g., `example.com/category/2`, with the page number in the header.
 * `JSON-LD` structured data for breadcrumbs.
-* No core file modifications.
+* No core file modifications (OCMOD).
 * Seamless compatibility with the **Journal** theme.
 
 ## Restrictions
